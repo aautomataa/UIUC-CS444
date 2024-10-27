@@ -1,2 +1,2 @@
 # UIUC-CS444
-self-learning program
+https://slazebni.cs.illinois.edu/spring24/
